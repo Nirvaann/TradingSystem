@@ -1,0 +1,41 @@
+{
+  "url": "https://www.fool.com/coverage/etfs/2026/01/05/vong-vs-voog-the-best-vanguard-growth-stocks-etf-to-buy-and-hold/",
+  "fetched_at": "2026-01-05T16:26:28.818080Z",
+  "published_date": "2026-01-05",
+  "published_datetime": "2026-01-05T15:38:10Z",
+  "title": "VONG vs VOOG: The Best Vanguard Growth Stocks ETF to Buy and Hold | The Motley Fool",
+  "content": "For investors seeking exposure to the broad U.S. stock markets, the Vanguard Russell 1000 Growth ETF ( VONG +0.66% ) and the Vanguard S&P 500 Growth ETF ( VOOG +0.72% ) stand out as two low-cost, index-tracking ETFs from Vanguard. Both ETFs track large-cap U.S. growth stocks, but differ in their index construction, sector tilts, and historical returns.\n\nVONG and VOOG target the high-growth segment of the U.S. equity market, but VONG follows the Russell 1000 Growth Index, while VOOG tracks the S&P 500 Growth Index. The matchup below explores which ETF may appeal to you based on your preferences for cost, performance, and portfolio makeup.\n\nBeta measures price volatility relative to the S&P 500; beta is calculated from five-year weekly returns. The 1-yr return represents total return over the trailing 12 months.\n\nBoth funds are equally affordable, with an expense ratio of 0.07%, and each distributes a modest 0.5% dividend yield, making cost and yield a wash between the two choices.\n\nThe Vanguard S&P 500 Growth ETF tracks the S&P 500 Growth Index, comprising large-cap growth stocks with 217 holdings. It has a heavy technology tilt (41.4%), followed by communication services (16.75%) and consumer discretionary (11.86%). Its top positions are Nvidia ( NVDA +0.69% ) at 13.51%, Apple ( AAPL 0.69% ) at 5.96%, and Microsoft ( MSFT +0.14% ) at 5.95%. VOOG has a long history with more than 15 years in the market, and does not include any structural quirks.\n\nThe Vanguard Russell 1000 Growth ETF mirrors the Russell 1000 Growth Index, which focuses on large-cap growth stocks in the U.S. but holds a broader basket of 391 stocks. Its sector allocation is also tech-heavy (61.8%), followed by consumer discretionary (16.8%) and industrials (8.1%). Unlike VOOG, communications is only a tiny fraction of holdings. VONG's largest positions are similar to VOOGs and include Nvidia ( NVDA +0.69% ) at 12.22%, Apple ( AAPL 0.69% ) at 12.04%, and Microsoft ( MSFT +0.14% ) at 10.79%.\n\nFor more guidance on ETF investing, check out the full guide at this link .\n\nThe Vanguard S&P 500 Growth ETF and the Vanguard Russell 1000 Growth ETF are both low-cost Vanguard powerhouses giving investors exposure to U.S. growth stocks with a large market capitalization . Growth stocks are typically companies that grow their earnings at a faster rate than the industry or market average, and therefore tend to deliver handsome returns in the long term. The focus on large-cap growth stocks further provides a safety net as large-cap stocks are often established, blue-chip companies with a strong clout in their respective industries, reliable business models, and growth catalysts.\n\nVOOG, however, only invests in S&P 500 companies while VONG draws from the Russell 1000, which provides exposure to a larger group of companies that may not necessarily be a part of the S&P 500 index.\n\nVONG Total Return Level data by YCharts\n\nGrowth investors may choose either of the two ETFs, as there's a lot of overlap in their largest holdings, and both are heavily tech-tilted funds. Cost is not a criterion here because both funds charge the expense ratio, and the choice largely boils down to the extent of exposure to growth stocks you seek and sector preferences, if any.\n\nBoth ETFs invest in the best-of-the-best large-cap growth stocks, but VONG gives you maximum growth exposure albeit with a significantly higher exposure to the tech sector. This may also make the ETF slightly more volatile, as reflected by its higher beta compared to VOOG. Splitting your investment between the two ETFs is a great idea to get the most out of growth stocks.\n\nETF: Exchange-traded fund; a pooled investment fund traded on stock exchanges, similar to a stock. Expense ratio: The annual fee, as a percentage of assets, that a fund charges its shareholders. Dividend yield: The annual dividends paid by a fund, expressed as a percentage of its current price. Total return: The investment's price change plus all dividends and distributions, assuming those payouts are reinvested. Index-tracking: A strategy where a fund aims to replicate the performance of a specific market index. Russell 1000 Growth Index: A stock market index measuring the performance of large-cap U.S. growth stocks. S&P 500 Growth Index: An index representing the growth-oriented stocks among the S&P 500 companies. Beta: A measure of a fund's volatility compared to the overall market, typically the S&P 500. AUM: Assets under management; the total market value of assets a fund manages. Max drawdown: The largest observed percentage drop from a fund's peak value to its lowest point over a period. Sector allocation: The distribution of a fund's investments across different industry sectors. Consumer cyclicals: Companies whose business performance is closely tied to the economic cycle, such as retailers and automakers.",
+  "meta_description": "Explore how differences in index strategy and sector exposure set these two low-cost growth ETFs apart for investors.",
+  "status": 200,
+  "source_domain": "www.fool.com",
+  "word_count": 791,
+  "matched_companies": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "mentions": 4
+    },
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "sector": "Technology & Manufacturing",
+      "mentions": 4
+    },
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors",
+      "mentions": 4
+    }
+  ],
+  "relevance_score": 0.2179176755447942,
+  "article_type": "company_specific",
+  "crawl_mode": "strict_today_only",
+  "primary_company": {
+    "name": "Apple Inc.",
+    "ticker": "AAPL",
+    "sector": "Technology & Manufacturing",
+    "mentions": 4
+  }
+}

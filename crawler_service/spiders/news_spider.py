@@ -12,6 +12,9 @@ import sqlite3
 import re
 from urllib.parse import urljoin, urlparse
 
+from crawler_service.utils.s3_uploader import S3Uploader
+from crawler_service.utils.s3_batch_uploader import S3BatchUploader
+
 import scrapy
 from bs4 import BeautifulSoup
 import yaml
@@ -113,6 +116,22 @@ class NewsSpider(scrapy.Spider):
         logger.info("✅ Crawling %d FREE news sources", len(self.start_urls))
         logger.info("=" * 80)
 
+        self.upload_to_s3 = os.getenv('UPLOAD_TO_S3', 'false').lower() == 'true'
+        upload_interval = int(os.getenv('S3_UPLOAD_INTERVAL_MINUTES', 1))
+        
+        if self.upload_to_s3:
+            try:
+                self.s3_batch_uploader = S3BatchUploader(
+                    raw_data_dir=self.data_raw_dir,
+                    upload_interval_minutes=upload_interval
+                )
+                logger.info(f"✅ S3 batch uploader initialized (interval: {upload_interval} min)")
+            except Exception as e:
+                logger.error(f"❌ Failed to initialize S3 batch uploader: {e}")
+                self.upload_to_s3 = False
+
+
+    
     def _load_company_config(self, base_dir: str):
         """Load company tracking configuration"""
         config_path = os.path.join(base_dir, "config", "companies.yml")
@@ -209,6 +228,11 @@ class NewsSpider(scrapy.Spider):
                 yield from result
         else:
             yield from self._follow_article_links(response)
+        
+               
+        # Trigger batch upload periodically
+        if self.upload_to_s3:
+            self.s3_batch_uploader.upload_batch()
 
     def _is_article_url(self, url: str) -> bool:
         """Check if URL looks like an article page"""
@@ -537,7 +561,9 @@ class NewsSpider(scrapy.Spider):
         conn.close()
 
     def _save_raw_json(self, item: dict):
-        """Save to raw directory"""
+        """Save to raw directory and optionally upload to S3"""
+        import hashlib
+        
         url_hash = hashlib.sha1(item["url"].encode("utf-8")).hexdigest()[:16]
         timestamp = int(datetime.datetime.utcnow().timestamp())
         
@@ -549,8 +575,21 @@ class NewsSpider(scrapy.Spider):
         filename = f"article_{url_hash}{companies_str}_{timestamp}.json"
         filepath = os.path.join(self.data_raw_dir, filename)
         
+        # Save locally first
         with open(filepath, "w", encoding="utf-8") as fh:
             json.dump(item, fh, ensure_ascii=False, indent=2)
+        
+        logger.info(f"💾 Saved locally: {filename}")
+        
+        # Upload to S3 if enabled
+        if self.upload_to_s3:
+            try:
+                self.s3_uploader.upload_file(filepath)
+                logger.info(f"☁️  Uploaded to S3: {filename}")
+            except Exception as e:
+                logger.error(f"❌ Failed to upload to S3: {e}")       
+
+
 
     def _save_by_company_and_date(self, item: dict, matched_companies: List[Dict], date: str):
         """Save organized by company and date"""

@@ -1,0 +1,35 @@
+{
+  "url": "https://www.cnbc.com/2026/01/05/amazon-alexa-web-chatgpt.html",
+  "fetched_at": "2026-01-05T15:49:07.956858Z",
+  "published_date": "2026-01-05",
+  "published_datetime": "2026-01-05T15:14:23Z",
+  "title": "Amazon lets some users chat with Alexa+ on the web in bid to take on ChatGPT",
+  "content": "Amazon on Monday launched an Alexa+ website that lets some users chat with its assistant via their browser, putting it in more direct competition with OpenAI 's ChatGPT .\n\nThe Alexa.com website is only available to users of Alexa+ , its revamped artificial intelligence assistant that debuted last February and remains in early access. Users have to join a waitlist to gain access to the service or purchase newer devices .\n\nAmazon says consumers can use Alexa.com to \"get quick answers, explore complex topics, create content, plan trip itineraries, and get help with homework.\" Users can also manage their smart home gadgets within the Alexa+ chat window, the company said.\n\nBy launching a browser-based version of Alexa, Amazon wants to make sure users can interact with its AI assistant across different interfaces.\n\nPreviously, Alexa+ was only available via a mobile app or some Echo devices.\n\nIt also puts Amazon's service more in line with popular AI chatbots made by the likes of OpenAI, Google , Anthropic and Perplexity, all of which are frequently accessed via web browsers.\n\nAmazon has faced growing pressure to update its hardware and software for the generative AI age following the success of ChatGPT, Google's Gemini and others.\n\nAlexa+ has gradually rolled out to users since its debut, and the company has said tens of millions of people now have access to the service.\n\nAmazon previewed Alexa.com when it launched Alexa+ last year, saying at the time that the website would launch in the coming months. The company told the Washington Post last July that the feature would be available for early access users in the summer.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\n© 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes.\n      Global Business and Financial News, Stock Quotes, and Market Data\n      and Analysis.",
+  "meta_description": "The company launched Alexa+ last February and it remains in early access.",
+  "status": 200,
+  "source_domain": "www.cnbc.com",
+  "word_count": 332,
+  "matched_companies": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "sector": "E-commerce",
+      "mentions": 7
+    },
+    {
+      "name": "Alphabet Inc. (Google)",
+      "ticker": "GOOGL",
+      "sector": "Technology",
+      "mentions": 2
+    }
+  ],
+  "relevance_score": 0.375,
+  "article_type": "company_specific",
+  "crawl_mode": "strict_today_only",
+  "primary_company": {
+    "name": "Amazon.com, Inc.",
+    "ticker": "AMZN",
+    "sector": "E-commerce",
+    "mentions": 7
+  }
+}

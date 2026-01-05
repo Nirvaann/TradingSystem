@@ -1,0 +1,23 @@
+{
+  "url": "https://www.fool.com/investing/2026/01/05/should-you-invest-1000-in-mp-materials-right-now/",
+  "fetched_at": "2026-01-05T16:26:32.820958Z",
+  "published_date": "2026-01-05",
+  "published_datetime": "2026-01-05T16:00:00Z",
+  "title": "Should You Invest $1,000 in MP Materials Right Now? | The Motley Fool",
+  "content": "Right now, in your phone or laptop, a high-performance magnet is doing essential work. It enables your speakers to convert electric signals into sound (and vice versa), to align charging coils properly, and even make that little vibration when your phone buzzes with a text.\n\nThese magnets are made from powerful elements, such as neodymium, iron, and boron. Without them, your device would be weaker and less efficient. And without a U.S. mining company like MP Materials ( MP +4.28% ) , the origin of these magnets would most likely come from foreign soil.\n\nMP Materials owns and operates the Mountain Pass mine in California, one of the few scalable rare earth mines in the U.S., from which it extracts the metals needed to produce high-performance metals. It's also becoming more vertically integrated, with a magnet factory in Fort Worth, Texas, and another (the 10X Facility) on its way.\n\nIn 2025, MP got a major valuation boost after announcing a partnership with the Department of Defense (DOD). The DOD invested $400 million in MP, and the deal also included a 10-year price floor of $110 per kilogram for NdPr, plus a guarantee that 100% of the magnets produced at the 10X Facility will have a buyer for the next 10 years.\n\nMP also struck a multiyear $500 million deal with Apple ( AAPL 0.72% ) . Under the agreement, MP will supply Apple with 100% recycled rare earth magnets, with Apple prepaying $200 million.\n\nOn the heels of these announcements, MP stock has soared. Over the last 12 months, the stock is up over 230%. If you had invested $1,000 in MP a year ago, your position would be worth about $3,500 today. That's a bigger gain than any of the \" Magnificent Seven\" stocks over the same period.\n\nMP Total Return Price data by YCharts\n\nStill, execution risks remain, and MP's valuation is already running hot. The company still needs to build out its manufacturing arm, which will likely pressure its bottom line. A $1,000 investment in the company at this point should be taken by aggressive investors only.",
+  "meta_description": "MP Materials had a legendary run in 2025. Is now the time to invest $1,000?",
+  "status": 200,
+  "source_domain": "www.fool.com",
+  "word_count": 350,
+  "matched_companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "sector": "Technology & Manufacturing",
+      "mentions": 4
+    }
+  ],
+  "relevance_score": 0.15873015873015872,
+  "article_type": "company_specific",
+  "crawl_mode": "strict_today_only"
+}
