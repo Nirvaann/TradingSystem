@@ -1,3 +1,7 @@
 ./.env
 frontend_service/node_modules
 api_service/node_modules
+.\.env
+.env
+.env
+.env
