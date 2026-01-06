@@ -1,0 +1,29 @@
+{
+  "url": "https://www.fool.com/investing/2026/01/05/could-this-ai-etf-surge-x-and-become-the-next-nvid/",
+  "fetched_at": "2026-01-06T03:45:59.648055Z",
+  "published_date": "2026-01-06",
+  "published_datetime": "2026-01-06T03:00:00Z",
+  "title": "Could This AI ETF Surge 300% and Become the Next Nvidia? | The Motley Fool",
+  "content": "Asking any fund to behave like a story stock, let alone one with an epic tale such as Nvidia ( NVDA 0.43% ) , is a tall order. After all, exchange-traded funds (ETFs) are baskets of stocks, so even when those products hold shares of a darling like Nvidia , returns are determined by the entire roster, not a single name.\n\nIt's a trade-off. Investors sacrifice some of the upside potential of an individual stock for the diversification benefits and removal of the stock-picking burden associated with ETFs and index funds . That doesn't mean the ETF landscape is lacking funds with multibagger potential -- not when there are so many dedicated tech and artificial intelligence (AI) ETFs on the market.\n\nTake the case of the Invesco AI and Next Gen Software ETF ( IGPT +0.38% ) . This ETF, which counts Nvidia as its second-largest holding, may not be \"the next Nvidia.\" Still, it has the ingredients needed to deliver sizable long-term gains, perhaps even those of the triple-digit variety. Below, I'll examine the bull case for this AI ETF.\n\nThis Invesco ETF has $652 million in assets under management (AUM) and turned 20 years old in June,  so it's neither small, nor young. What's interesting is that this fund was conceived as a software-focused ETF, but amid the AI groundswell, the issuer changed the name and index in June 2023 to better reflect its AI-centric positioning.\n\nBetween 2024 and 2025, Nvidia outpaced the AI ETF by a margin of better than 5-to-1; however, to the fund's credit, it slightly outpaced the Nasdaq-100 over that time frame. Remember that the aim of an ETF isn't to top its best-performing components. Instead, it's to provide a combination of diversification and upside potential. This Invesco ETF, which charges an annual fee of 0.56%, holds 100 stocks across 17 industries.\n\nToday, this tech ETF allocates more than 43% of its portfolio to semiconductor stocks, while also providing significant exposure to AI hyperscalers . It also retains some of its software roots, which is important because some experts believe specific software names are among the top AI ideas for long-term investors.\n\nA prime example of the AI/software intersection is Adobe , which is a top 10 holding in this ETF. The company behind Illustrator and Photoshop is well-known to many tech investors and is also developing AI-related products. When Adobe delivered fiscal fourth-quarter results in December, CEO Shantanu Narayen highlighted the company's \"growing importance in the global AI ecosystem and the rapid adoption of our AI-driven tools.\"\n\nAnother company situated at the intersection of AI and software that could drive this tech ETF to significant gains is Snowflake . A standout tech name with the potential to beat more popular stocks in 2026, Snowflake is leveraging AI tools to retain current clients and attract new ones.\n\nIts AI-powered Cortex platform allows customers to build apps using the data they're already paying Snowflake to store and secure. This confirms it has multiple avenues for expanding relationships with existing clients while garnering new business.\n\nThere are times when investors can benefit from a reality check, and that's not necessarily a bad thing. Here it is regarding this AI ETF: It probably won't generate Nvidia-like returns. Few assets ever will, but that's not a knock on this fund because it has the potential to deliver performances that will please even the most discerning investors.\n\nThe growth tailwinds are there. Goldman Sachs estimates the market for AI-powered customer service software could expand by 20% to 45% by 2030. The high end of the range implies growth that's more than double the forecast for the broader software industry.\n\nAgentic AI progress could also benefit this ETF because its software holdings can present clients with fresh innovations that bring workplace productivity enhancements.  Additionally, software developers, including some based in this ETF, are working on addressing issues that hinder AI software adoption. As those strides are made, more tailwinds for this fund could emerge.\n\nAt the end of the day, this AI ETF is unlikely to match Nvidia's long-term return profile. However, that's not all that negative because the fundamental factors are in place for this fund to deliver triple-digit gains over extended holding periods.",
+  "meta_description": "This is an old ETF, but a 2023 refresh makes it a rising player on the AI ETF stage.",
+  "status": 200,
+  "source_domain": "www.fool.com",
+  "word_count": 705,
+  "matched_companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors",
+      "mentions": 9
+    }
+  ],
+  "relevance_score": 0.18267929634641408,
+  "article_type": "company_specific",
+  "crawl_mode": "strict_today_only",
+  "primary_company": {
+    "name": "NVIDIA Corporation",
+    "ticker": "NVDA",
+    "sector": "Semiconductors",
+    "mentions": 9
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.fool.com/investing/2026/01/05/sp-500-buy-stock-1-trillion-club-market-cap/",
+  "fetched_at": "2026-01-06T03:46:05.951309Z",
+  "published_date": "2026-01-06",
+  "published_datetime": "2026-01-06T00:00:00Z",
+  "title": "Prediction: The S&P 500 $1 Trillion Club Will Double Between 2026 and 2030 | The Motley Fool",
+  "content": "The number of S&P 500 companies in the $1 trillion club has grown substantially since Apple became the first U.S. company to surpass $1 trillion in market capitalization in August 2018.\n\nAt the time of this writing, Nvidia and Apple have market caps over $4 trillion; Alphabet and Microsoft are over $3.6 trillion; Amazon is at $2.5 trillion; and Meta Platforms , Broadcom , Tesla , and Berkshire Hathaway are all over $1 trillion.\n\nSaudi Arabian Oil and Taiwan Semiconductor Manufacturing also have market caps north of $1 trillion, however, these companies aren't in the S&P 500.\n\nHere's why the S&P 500 $1 trillion club could easily grow from nine companies to 18 over the next five years and what market concentration means for your financial portfolio .\n\nIn recent years, major tech-focused companies have outpaced broader market gains, resulting in the S&P 500 becoming heavily concentrated in just a handful of stocks. About 20 companies make up 50% of the index, with Nvidia, Apple, Alphabet, and Microsoft combined making up over a quarter of the S&P 500.\n\nNVDA Market Cap data by YCharts.\n\nEli Lilly ( LLY 3.60% ) , Walmart ( WMT 0.04% ) , JPMorgan Chase ( JPM +2.63% ) , Visa ( V +2.11% ) , Oracle ( ORCL 1.59% ) , ExxonMobil ( XOM +2.21% ) , and Netflix ( NFLX +0.52% ) all have a case for joining the $1 trillion club by the end of 2030.\n\nLLY Market Cap data by YCharts.\n\nEli Lilly, Walmart, and JPMorgan Chase are already knocking on the door of the milestone , and Eli Lilly actually crossed the barrier briefly. But it would take bigger gains from Visa, ExxonMobil, Oracle, and Netflix to surpass $1 trillion.\n\nVisa could reach the milestone on its earnings growth alone. The payment processor converts around half of its sales into bottom-line, after-tax profit. And it has the domestic and international network needed to grow sales and earnings by double digits, meaning its valuation could compress, and it could still surpass the $1 trillion mark in five years.\n\nExxonMobil's earnings are down over the last few years due to lower oil prices. But even when factoring in those lower earnings, the stock ended 2025 around an all-time high. ExxonMobil still sports a dirt cheap price-to-earnings (P/E) ratio of 17.6. ExxonMobil's efficiency improvements and cost reductions position it well to generate cash flow at higher oil prices, which could also pique investor interest and justify a higher P/E ratio for ExxonMobil -- potentially pushing it over the $1 trillion mark in the coming years.\n\nOracle's stock price has gotten crushed because investors are concerned about its leveraged bet on artificial intelligence (AI) infrastructure, which has turned Oracle from a stable stalwart to free-cash-flow negative. But Oracle's bet is more calculated than the market is giving it credit for. Oracle's existing remaining performance obligations, which are basically potential revenue from contracts, are tied to OpenAI. However, Oracle doesn't need OpenAI to succeed , as its AI-focused data centers will be highly sought after if capacity becomes constrained. As Oracle begins monetizing its infrastructure build-out, its earnings and stock price have the potential to increase at a rapid rate.\n\nNetflix has sold off because its valuation is somewhat expensive , and it is taking a risk by attempting to purchase Warner Bros. Discovery . Often, short-term-minded investors will shoot first and ask questions later -- which is a mistake when it pertains to a high-margin cash cow like Netflix. With Warner Bros. Discovery's content and streaming integration with HBO, Netflix should have multiple levers to pull to accelerate earnings and introduce new ad-free and ad-supported streaming options, making it a candidate to double or triple over the next five years.\n\nThe composition of the S&P 500 could undergo drastic changes if high-profile private companies, such as SpaceX, OpenAI (the maker of ChatGPT), and Anthropic (the maker of Claude), go public through initial public offerings (IPOs).\n\nEstimates vary, but SpaceX could have an IPO somewhere around $800 billion next year.\n\nOpenAI raised $40 billion in early 2025 at a $300 billion valuation , but OpenAI could be valued much higher now, with reports indicating the company is in talks to raise up to $100 billion at an $830 billion valuation.\n\nAnthropic could also go public next year , but it would take a lot for its valuation to reach $1 trillion by 2030, which is why it is excluded from this list.\n\nHowever, as Motley Fool co-founder and CEO Tom Gardner points out , investors should focus on fundamentals and recognize that these high-profile AI stocks will have a lot of marketing collateral behind them if they do IPO, which could make the valuations unattractive for investors looking to buy shares on the public market -- at least until fundamentals catch up with valuations.\n\nSpaceX and OpenAI going public, paired with higher values from Eli Lilly, Walmart, JPMorgan Chase, Visa, ExxonMobil, Oracle, and Netflix, could potentially double the number of companies in the $1 trillion club over the next five years. Dark horse candidates to join the club include Advanced Micro Devices , Mastercard , Palantir Technologies , AbbVie , Bank of America , and Costco Wholesale .\n\nWith major companies getting bigger, investors should recognize the risk that comes with investing in index funds or exchange-traded funds (ETFs) that are top heavy, especially if there's overlap between their individual holdings and major holdings in those funds.\n\nConcentration risk is a double-edged sword that can amplify gains when big companies are doing well but also magnify volatility and accelerate a stock market sell-off. With so many of the largest S&P 500 companies betting big on AI and cloud computing, it stands to reason that the theme will continue leading the broader indexes to new heights in the coming years or be the driving force behind a sell-off.",
+  "meta_description": "Several companies could see massive gains by 2030 to join the vaunted club.",
+  "status": 200,
+  "source_domain": "www.fool.com",
+  "word_count": 981,
+  "matched_companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "sector": "Technology & Manufacturing",
+      "mentions": 3
+    },
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors",
+      "mentions": 3
+    },
+    {
+      "name": "Alphabet Inc. (Google)",
+      "ticker": "GOOGL",
+      "sector": "Technology",
+      "mentions": 2
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "mentions": 2
+    },
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "sector": "E-commerce",
+      "mentions": 1
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "sector": "Automotive & Manufacturing",
+      "mentions": 1
+    }
+  ],
+  "relevance_score": 0.17804154302670624,
+  "article_type": "company_specific",
+  "crawl_mode": "strict_today_only",
+  "primary_company": {
+    "name": "Alphabet Inc. (Google)",
+    "ticker": "GOOGL",
+    "sector": "Technology",
+    "mentions": 2
+  }
+}

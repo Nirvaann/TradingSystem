@@ -1,0 +1,41 @@
+{
+  "url": "https://www.fool.com/coverage/etfs/2026/01/05/dividend-growth-or-defensive-balance-how-vig-and-nobl-diverge/",
+  "fetched_at": "2026-01-06T03:45:58.140576Z",
+  "published_date": "2026-01-06",
+  "published_datetime": "2026-01-06T02:36:15Z",
+  "title": "Dividend Growth or Defensive Balance? How VIG and NOBL Diverge | The Motley Fool",
+  "content": "Vanguard Dividend Appreciation ETF (VIG) stands out for its lower cost, wider diversification, and stronger recent performance, while ProShares - S&P 500 Dividend Aristocrats ETF (NOBL) leans defensive and pays a higher yield.\n\nBoth VIG and NOBL focus on companies with robust dividend track records, but approach the theme differently. Investors comparing these funds are weighing VIG’s broad, low-cost exposure to dividend growers against NOBL’s more concentrated, sector-capped portfolio of established S&P 500 dividend aristocrats.\n\nBeta measures price volatility relative to the S&P 500; beta is calculated from five-year weekly returns. The 1-yr return represents total return over the trailing 12 months.\n\nVIG is notably more affordable, charging just 0.05% in annual fees compared to 0.35% for NOBL, and also commands over ten times the assets under management. NOBL, on the other hand, is smaller and offers a modestly higher dividend payout.\n\nVIG tracks a broad universe of 338 U.S. large-cap stocks with a consistent record of growing dividends, and has been running for nearly 20 years. The fund is most heavily weighted toward technology (28%), financial services (22%), and healthcare (15%), with its largest individual holdings being Broadcom (NASDAQ: AVGO), Microsoft (NASDAQ: MSFT), and Apple (NASDAQ: AAPL). This blend gives VIG a growth-leaning tilt within the dividend space.\n\nIn contrast, NOBL results in a more concentrated portfolio of 70 stocks. Its sector allocation skews toward industrials (23%) and consumer defensive (22%), with top positions like Albemarle (NYSE: ALB), Expeditors Intl Wash (NYSE: EXPD), and C.h. Robinson Worldwide (NASDAQ: CHRW). NOBL’s methodology also enforces equal weighting and sector caps, which can limit exposure to dominant sectors like technology.\n\nFor more guidance on ETF investing, check out the full guide at this link .\n\nVIG and NOBL both aim to deliver reliable dividends, but they do so through very different portfolio designs. VIG emphasizes dividend growth, pairing broad diversification with extremely low costs to let long-term winners gradually shape returns. That flexibility has supported performance over time, though it also means the fund will move with the broader market. On the other hand, VIG fits best as a growth-oriented core for dividend investors.\n\nNOBL is structured to keep dividends steady and to better balance risk. Equal weighting and sector caps limit concentration, while the dividend aristocrat screen favors companies with long histories of maintaining payouts. That discipline can hold back gains during strong rallies, but it often helps smooth results when markets become more volatile. NOBL is designed for consistency and balance rather than momentum.\n\nFor investors, the clearer question is which each ETF best support your income goals. VIG is better suited for those focused on long-term dividend growth and cost efficiency. NOBL appeals to investors who value stability, diversification, and downside awareness. Ultimately, the right choice depends on whether dividends are meant to compound or to stabilize a portfolio.\n\nETF: Exchange-traded fund; a pooled investment fund traded on stock exchanges, similar to a stock. Dividend yield: Annual dividend income divided by the fund's or stock's current price, shown as a percentage. Expense ratio: Annual fee, expressed as a percentage of assets, that a fund charges to cover operating costs. Assets under management (AUM): The total market value of assets a fund or investment company manages on behalf of investors. Dividend aristocrats: S&P 500 companies that have increased their dividends for at least 25 consecutive years. Beta: A measure of an investment's volatility compared to the overall market, typically the S&P 500. Max drawdown: The largest observed percentage drop from a fund's peak value to its lowest point over a specific period. Equal weighting: A portfolio strategy where each holding is given the same allocation, regardless of company size. Sector cap: A limit placed on how much of a fund's portfolio can be invested in any single industry sector. Total return: The investment's price change plus all dividends and distributions, assuming those payouts are reinvested. Growth of $1,000: Illustrates how an initial $1,000 investment would have increased in value over a specified period.",
+  "meta_description": "Both ETFs target reliable income, but VIG emphasizes low-cost dividend growth while NOBL prioritizes balance and risk control through disciplined construction.",
+  "status": 200,
+  "source_domain": "www.fool.com",
+  "word_count": 663,
+  "matched_companies": [
+    {
+      "name": "C.H. Robinson Worldwide",
+      "ticker": "CHRW",
+      "sector": "Freight Brokerage",
+      "mentions": 3
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "mentions": 2
+    },
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "sector": "Technology & Manufacturing",
+      "mentions": 2
+    }
+  ],
+  "relevance_score": 0.1504297994269341,
+  "article_type": "company_specific",
+  "crawl_mode": "strict_today_only",
+  "primary_company": {
+    "name": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "sector": "Technology",
+    "mentions": 2
+  }
+}

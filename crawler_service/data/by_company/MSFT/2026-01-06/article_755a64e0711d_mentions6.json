@@ -1,0 +1,35 @@
+{
+  "url": "https://www.fool.com/investing/2026/01/05/5-dividend-stocks-to-hold-for-the-next-25-years/",
+  "fetched_at": "2026-01-06T03:45:49.993334Z",
+  "published_date": "2026-01-06",
+  "published_datetime": "2026-01-06T00:32:00Z",
+  "title": "5 Dividend Stocks to Hold for the Next 25 Years | The Motley Fool",
+  "content": "If you invest in dividend stocks, the best way to maximize your returns is to hold them and reinvest the dividends over a period of many years. Ideally, the companies you invest in not only pay a dividend consistently but also increase it, which adds another wealth-building effect to your portfolio.\n\nBut there are thousands of stocks to choose from, and the reality is that few are cut from the proper cloth to sustain success for decades at a time.\n\nFinding these stocks isn't impossible. You just need to know what to look for. You'll want proven industry leaders with wide competitive moats . These companies tend to stick around and continue to grow, sharing their financial prosperity with shareholders along the way.\n\nHere are five examples of excellent dividend stocks that investors can buy and hold confidently for the next 25 years.\n\nSmartphones are attached to the hips of many people these days. Apple ( AAPL 1.43% ) is recognized worldwide for its iPhone, as well as various other devices, accessories, and apps used within the iOS ecosystem. Apple now has more than 2.35 billion active iOS devices worldwide, and the company generates about $100 billion in free cash flow annually.\n\nApple is known for its massive stock buybacks , but it has also become a dependable dividend stock, with 12 consecutive years of annual dividend growth. Apple's iOS ecosystem has proven to be very sticky. It also gives Apple a vast customer base to which it can sell new products and services. While Apple has started slowly with artificial intelligence (AI), it remains a no-brainer to own for the foreseeable future.\n\nCash is steadily giving way to non-cash payments, like debit cards, credit cards, and digital wallets. Visa ( V +2.11% ) is the world's leading payment processing network (when excluding China). It serves as a toll booth for global commerce, connecting the terminals where you swipe or tap to pay for something to the financial institutions that hold your money.\n\nVisa's massive scale and entrenched network make the company highly profitable. It converts more than half of its revenue into free cash flow, and the company distributes those profits as dividends and buybacks. Visa has raised its dividend each year since going public in 2008, and its consistent growth and low 21% dividend payout ratio practically ensure that the dividends will continue.\n\nThe technology sector isn't typically a great place to find dividend stocks, but Microsoft ( MSFT 0.06% ) is a rare exception. It's a highly diversified juggernaut. It touches nearly every notable niche within the tech space, including computer hardware and software, cloud computing , artificial intelligence , gaming, and more. If there is an emerging growth opportunity, Microsoft is almost always there.\n\nMicrosoft's decades of success have fostered deep-rooted relationships with millions of consumers and enterprises, and I don't see that changing anytime soon. Microsoft has paid and raised its dividend for 23 consecutive years and is one of just two public corporations with a sparkling AAA credit rating. Microsoft is one of the rare tech stocks that dividend investors can buy and hold, and sleep well at night.\n\nConsumer spending is the heartbeat of the United States economy. Walmart ( WMT 0.04% ) is the largest retailer in America, with annual revenue exceeding $700 billion. It leverages its massive size to source and sell merchandise at lower prices than competitors, which simply attracts more shoppers seeking savings. Approximately 90% of the U.S. population resides within a short driving distance of a store.\n\nWalmart is always top of mind for shoppers, which is why the stock is a Dividend King . Walmart has increased its dividend for more than 50 consecutive years, and there is no reason to believe it won't continue for the foreseeable future. The company has adapted well to the times, embracing e-commerce as a growth opportunity for the future.\n\nBeverages might be the most timeless business you'll find. Take Coca-Cola ( KO 1.71% ) , for example. It faces virtually zero threat of technological disruption. The Coca-Cola soda you drink today isn't all that different from what people drank when the company started selling it in the late 1800s. Coca-Cola has evolved into a global empire, selling dozens of brands of soda, water, juice, tea, coffee, and other beverage products.\n\nCoca-Cola is another Dividend King, boasting 62 consecutive annual dividend increases. That stems from decades of steady growth, driven by a rising population, as well as a combination of new products, acquisitions, and pricing power . A highly fragmented global beverage market provides the company with a long runway to continue growing and raising its dividend in the process.",
+  "meta_description": "A quarter-century is a long time, but these timeless companies have the necessary staying power.",
+  "status": 200,
+  "source_domain": "www.fool.com",
+  "word_count": 779,
+  "matched_companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "sector": "Technology & Manufacturing",
+      "mentions": 8
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "mentions": 6
+    }
+  ],
+  "relevance_score": 0.2599009900990099,
+  "article_type": "company_specific",
+  "crawl_mode": "strict_today_only",
+  "primary_company": {
+    "name": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "sector": "Technology",
+    "mentions": 6
+  }
+}

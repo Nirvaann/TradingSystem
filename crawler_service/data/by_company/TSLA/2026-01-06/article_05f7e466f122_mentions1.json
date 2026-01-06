@@ -1,0 +1,41 @@
+{
+  "url": "https://www.investors.com/news/",
+  "fetched_at": "2026-01-06T03:46:19.097976Z",
+  "published_date": "2026-01-06",
+  "published_datetime": "2026-01-06T03:46:19.090494Z",
+  "title": "News",
+  "content": "BREAKING: Nvidia Touts Next-Gen AI Processor, Rubin\n\nDow Jones Futures: AMD, Apple, Palantir and Tesla were key movers. Nvidia CEO Jensen Huang announced the company's new AI...\n\nTSMC stock advanced Monday as shares of semiconductor companies kicked off 2026 with a rally.\n\nTSMC stock advanced Monday as shares of semiconductor companies kicked off 2026 with a rally.\n\nNvidia on Monday launched its next-generation AI data center processor, called Rubin.\n\nNvidia on Monday launched its next-generation AI data center processor,...\n\nRead inspirational quotes about pushing toward goals, emphasizing gratitude and taking initiative now.\n\nRead inspirational quotes about pushing toward goals, emphasizing gratitude and taking...\n\nGet instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!\n\nGet market updates, educational videos, webinars, and stock analysis.\n\nLearn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.\n\nInformation in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning. Historical investment performances are no indication or guarantee of future success or performance. Authors/presenters may own the stocks they discuss. We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies. Information is subject to change without notice. For information on use of our services, please see our Terms of Use .\n\n*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets. Ownership data provided by LSEG and Estimate data provided by FactSet.\n\nIBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC.\n\n©2026 Investor’s Business Daily, LLC. All Rights Reserved.",
+  "meta_description": "Read the latest financial and business news headlines along with in-depth stock market news, analysis and investment info. Powered by Investor's Business Daily.",
+  "status": 200,
+  "source_domain": "www.investors.com",
+  "word_count": 336,
+  "matched_companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors",
+      "mentions": 5
+    },
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "sector": "Technology & Manufacturing",
+      "mentions": 1
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "sector": "Automotive & Manufacturing",
+      "mentions": 1
+    }
+  ],
+  "relevance_score": 0.2916666666666667,
+  "article_type": "company_specific",
+  "crawl_mode": "strict_today_only",
+  "primary_company": {
+    "name": "Tesla, Inc.",
+    "ticker": "TSLA",
+    "sector": "Automotive & Manufacturing",
+    "mentions": 1
+  }
+}
